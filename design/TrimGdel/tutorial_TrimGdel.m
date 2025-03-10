@@ -18,7 +18,7 @@
 %
 %% PROCEDURE
 %
-%% 1. Toy example
+%% 1. Toy example (~5 sec)
 %
 % In this tutorial, we apply TrimGdel to a toy example represented in Fig.
 % 2 of [1].
@@ -88,6 +88,7 @@ end
 
 %% ANTICIPATED RESULTS
 % GR = 10, PR = 10, size1 = 3, size2 = 3, size3 = 1
+% gvalue indicates the deletion of only g4 (b0004).
 %
 %% _Acknowledgments_
 % The author sincerely appreciate the administrators and reviewers.
